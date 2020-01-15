@@ -1,11 +1,16 @@
 {
-    "name": "sonata-project/media-bundle",
+    "name": "AtoomStudio/media-bundle",
     "type": "symfony-bundle",
     "description": "Symfony SonataMediaBundle",
     "keywords": ["media", "sonata", "youtube", "dailymotion", "vimeo", "pdf", "file", "upload"],
     "homepage": "https://sonata-project.org/bundles/media",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Josep Camps",
+            "email": "jcamps@atoomstudio.com",
+            "homepage": "https://atoomstudio.com"
+        },
         {
             "name": "Thomas Rabaix",
             "email": "thomas.rabaix@sonata-project.org",
